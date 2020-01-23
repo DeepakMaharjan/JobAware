@@ -15,7 +15,7 @@ var swaggerDefinition = {
 
     info: {
         // API informations (required)
-        title: 'Day Work', // Title (required)
+        title: 'JobAware', // Title (required)
         version: 'v1', // Version (required)
         description: 'API Documetation', // Description (optional)
     },
